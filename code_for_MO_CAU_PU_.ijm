@@ -1,8 +1,8 @@
-//This_working_process need 1.Two folder: first is data folder, another is outpur folder 2. code work for 'tif' image file
+//This_working_process need 1.Two folder: first is data folder, another is output folder 2. code work for 'tif' image file
 
 
 dir = getDirectory("Choose_data_Directory ");
-dir2 = getDirectory("Choose_Destination_Directory ") //outoput folder has to be located in seprately location of working folder
+dir2 = getDirectory("Choose_Destination_Directory ") //output folder has to be located in seprately location of working folder
    
    setBatchMode(true);
    count = 0;
